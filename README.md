@@ -23,4 +23,4 @@ Senior AI Scientist with **7+ years** of experience building and deploying produ
 
 Conversations about applied ML, research collaborations, and new opportunities are always welcome.
 
-<sub>**Keywords —** Foundation Models · Problem Solving · Communication</sub>
+<sub>**Keywords —** Foundation Models · Problem Solving · Optimization</sub>
