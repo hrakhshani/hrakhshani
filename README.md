@@ -9,7 +9,7 @@
 <img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=64" width="18" align="center" /> <sub>Top 2% developers, Anthropic Hackathon 2026 &nbsp;
 
 <sub>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="=https://www.linkedin.com/in/hrakhsha"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="https://img.shields.io/badge/Scholar-111111?style=flat-square&logo=googlescholar&logoColor=white" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" /></a>
 </sub>
