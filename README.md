@@ -17,12 +17,14 @@
 <br/><br/>
 
 ```mermaid
-%%{init: {'theme': 'neutral'}}%%
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '14px' }}}%%
 timeline
-    Research : 📚 550+ citations : Translating papers into products
-    2025 : 🏆 Winner : OpenAI Hackathon
-    2026 : 🛠️ Built with Opus 4.7 : Claude Code hackathon by Anthropic and Cerebral Valley : One of 288 shipped projects from 20,000+ applicants
-    Recent : 🚀 Impact : Led LLM semantic search for e-commerce : From experimentation to production-grade RAG and fine-tuned models
+    title Track Record & Key Milestones
+    Research Impact : 📚 550+ Citations : Applied AI Research translated into production models
+    2025 : 🏆 Winner - OpenAI Hackathon : Building state-of-the-art Generative AI applications
+    2026 : 🛠️ Built with Opus 4.7 : Anthropic x Cerebral Valley Hackathon : Shipped top project from 20,000+ applicants
+    Production ML : 🛍️ LLM Semantic Search : End-to-end Fine-tuning, RAG, and Low-Latency Inference
 ```
 
 <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=64" width="22" align="center" /> <sub>OpenAI</sub> &nbsp;·&nbsp;
